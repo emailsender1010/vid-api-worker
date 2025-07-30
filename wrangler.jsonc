@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "flat-butterfly-9cc4",
+	"name": "vid-api-worker",
 	"main": "src/index.js",
 	"compatibility_date": "2025-07-26",
 	"observability": {
