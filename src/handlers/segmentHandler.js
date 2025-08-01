@@ -76,7 +76,7 @@ export async function proxySegment(request, url) {
       headers: createProxyHeaders(refUrl)
     });
     
-    // Determine content type
+    // Determine content type 
     const contentType = determineContentType(response, segmentUrl);
     
     // Create segment headers
